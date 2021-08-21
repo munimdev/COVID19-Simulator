@@ -1,11 +1,3 @@
-BSCS-10-A / OOP Project
-
-Name:			 CMS ID:
-Baqir E Muhammad 	 356157
-Munim Zafar 		 334217
-Faizaan Al Faisal 	 342626
-
-
 Open Sem2_Project(.exe) in the release folder 
 to run program
 
@@ -13,6 +5,9 @@ All code written by us was done so in C++. We
 included the use of a library which was written 
 in Python, so our .exe file requires Python and
 some of its libraries to run.
+
+**************************************************
+Requirements
 
 Requirements to run the program/the executable:
 Python 3.9, and two Python libraries: matplotlib
@@ -23,7 +18,7 @@ included). The program was made in the Qt IDE, so
 the Qt-specific files are not added.
 
 **************************************************
-		Instructions
+Instructions
 
 - Enter parameters on the right side of the screen
 
@@ -46,7 +41,7 @@ terminated plotting before closing.
 
 
 **************************************************
-		Additional Notes
+Additional Notes
 
 - Maximum allowed population is 10 million, which can
 feasibly run on most computers. However, we suggest
