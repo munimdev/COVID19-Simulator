@@ -7,7 +7,7 @@ in Python, so our .exe file requires Python and
 some of its libraries to run.
 
 **************************************************
-Requirements
+                Requirements
 
 Requirements to run the program/the executable:
 Python 3.9, and two Python libraries: matplotlib
@@ -18,7 +18,7 @@ included). The program was made in the Qt IDE, so
 the Qt-specific files are not added.
 
 **************************************************
-Instructions
+                Instructions
 
 - Enter parameters on the right side of the screen
 
@@ -41,7 +41,7 @@ terminated plotting before closing.
 
 
 **************************************************
-Additional Notes
+                Additional Notes
 
 - Maximum allowed population is 10 million, which can
 feasibly run on most computers. However, we suggest
