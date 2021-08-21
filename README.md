@@ -6,7 +6,7 @@ included the use of a library which was written
 in Python, so our .exe file requires Python and
 some of its libraries to run.
 
-#Requirements
+# Requirements
 
 Requirements to run the program/the executable:
 Python 3.9, and two Python libraries: matplotlib
@@ -16,7 +16,7 @@ Including almost all code files (.cpp and .h are all
 included). The program was made in the Qt IDE, so 
 the Qt-specific files are not added.
 
-#Instructions
+# Instructions
 
 - Enter parameters on the right side of the screen
 
