@@ -38,7 +38,7 @@ not do anything). Ensure graph window has
 terminated plotting before closing.
 
 # Project Demo
-![demo]()
+![demo](https://github.com/munimdev/COVID-19-Simulator/blob/main/Project%20Demo.gif)
 
 # Additional Notes
 
