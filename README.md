@@ -37,6 +37,9 @@ parameters window (closing the graph window will
 not do anything). Ensure graph window has 
 terminated plotting before closing.
 
+# Project Demo
+![demo]()
+
 # Additional Notes
 
 - Maximum allowed population is 10 million, which can
